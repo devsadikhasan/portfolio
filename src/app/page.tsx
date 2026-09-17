@@ -41,7 +41,7 @@ export default function Home() {
       title: 'sickfits',
       url: 'https://sickfits-sadik.vercel.app/',
       description: 'A full-stack e-commerce platform featuring dynamic product management, cart functionality, and a secure checkout process.',
-      tech: ['HTML', 'Javascript', 'TailwindCSS', 'Typescript'],
+      tech: ['HTML', 'Javascript', 'TailwindCSS', 'PostgreSQL', 'Nodejs'],
       category: 'Web Development',
       icon: Globe,
     },
