@@ -563,7 +563,7 @@ export default function Home() {
               Get in touch
             </a>
             <a
-              href="https://github.com/devmdsadikhasan"
+              href="https://github.com/devsadikhasan"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-[#0b1522] hover:bg-[#112a36] text-white rounded-full text-sm font-medium transition-all border border-white/10"
@@ -574,7 +574,7 @@ export default function Home() {
               GitHub
             </a>
             <a
-              href="https://linkedin.com/in/devmdsadikhasan"
+              href="https://linkedin.com/in/devsadikhasan"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-5 py-2.5 bg-[#0b1522] hover:bg-[#112a36] text-white rounded-full text-sm font-medium transition-all border border-white/10"
